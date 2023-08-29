@@ -1,0 +1,26 @@
+{
+  "hurtgig": {
+    "sounds": [
+      {
+        "name": "jwgiganotosaurus:hurt",
+        "stream": false
+      }
+    ]
+  },
+  "idel3": {
+    "sounds": [
+      {
+        "name": "jwgiganotosaurus:idle3",
+        "stream": false
+      }
+    ]
+  },
+  "walksoand": {
+    "sounds": [
+      {
+        "name": "jwgiganotosaurus:walk",
+        "stream": false
+      }
+    ]
+  }
+}

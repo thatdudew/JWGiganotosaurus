@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "jwgiganotosaurus",
+  "version": "1.0.0",
+  "name": "jwgiganotosaurus",
+  "description": "jwgiganotosaurus",
+  "authors": [
+    "jwgiganotosaurus"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods",
+    "sources": ""
+  },
+  "license": "All Rights Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.testsize.JwgiganotosaurusMod"
+    ],
+    "client": [
+      "net.mcreator.testsize.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "mixins": [
+    "jwgiganotosaurus.mixins.json"
+  ]
+}

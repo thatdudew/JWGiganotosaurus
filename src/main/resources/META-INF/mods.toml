@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="jwgiganotosaurus"
+version="1.0.0"
+displayName="jwgiganotosaurus"
+credits="jwgiganotosaurus"
+displayURL="https://www.curseforge.com/minecraft/mc-mods"
+authors="jwgiganotosaurus"
+description="jwgiganotosaurus"
+
+[[dependencies.jwgiganotosaurus]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+[[dependencies.jwgiganotosaurus]]
+    modId="geckolib"
+    mandatory=false
+    versionRange="[0,)"
+    ordering="NONE"
+    side="BOTH"
+

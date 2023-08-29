@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.mcreator.testsize.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+	"JwgiganotosaurusModRepairItemRecipeMixin"  ],
+  "injectors": {
+	"defaultRequire": 1
+  }
+}
